@@ -85,7 +85,6 @@ export const GalleryFlatlist = () => {
             backgroundColor: '#ffffff44',
             top: height * 0.3,
             borderRadius: 10,
-            flexGrow: 1,
             flexDirection: 'row',
           }}>
           <View style={{height: 200, width: '100%'}}>
